@@ -2,7 +2,7 @@
 
 ### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
-I'm a B.Tech CSE (AI & ML) student focused on backend development and currently expanding into full-stack web development.
+I'm a B.Tech CSE (AI & ML) student focused on backend development and currently expanding into full-stack web development with JavaScript.
 
 I enjoy building practical applications, understanding how systems work internally, and learning by building projects.
 
@@ -22,7 +22,8 @@ I enjoy building practical applications, understanding how systems work internal
 * Spring Security
 * REST APIs
 * JWT
-* FastAPI
+
+**Additional:** FastAPI
 
 **Databases**
 
